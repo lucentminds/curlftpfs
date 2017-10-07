@@ -24,12 +24,12 @@ fuse >= 2.2
 ## Install
 
 ```shell
-make install
+./install.sh
 ```
 ## Remove or uninstall
 
 ```shell
-make uninstall
+./uninstall.sh
 ```
 
 ## Usage
