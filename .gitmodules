@@ -1,0 +1,4 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/lucentminds/curlftpfs.git
+	branch = master-orig
